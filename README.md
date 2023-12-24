@@ -17,6 +17,7 @@ Calculate the total cost of all items in the tree.
 Remove Item:
 
 Remove a particular item from the tree.
+
 How to Use
 
 Clone the Repository:
